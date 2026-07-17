@@ -1,7 +1,6 @@
 hwstor-website
-│
-├── <!DOCTYPE html>
-<html lang="en">
+
+├── index.html <html lang="en">
 
 <head>
 
@@ -561,7 +560,9 @@ Send Inquiry
 
 </body>
 
-</html>
+</html>       
+│
+├── style.css         
 │
 └── assets
     ├── logo.png
