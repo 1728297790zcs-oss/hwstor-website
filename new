@@ -1,0 +1,11 @@
+hwstor-website
+│
+├── index.html
+│
+└── assets
+    ├── logo.png
+    ├── hero.png
+    ├── digital-signage.jpg
+    ├── hologram.jpg
+    ├── transparent.jpg
+    └── touch-pc.jpg
