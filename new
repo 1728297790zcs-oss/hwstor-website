@@ -1,6 +1,567 @@
 hwstor-website
 │
-├── index.html
+├── <!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>
+HWSTOR | Commercial Display Manufacturer | Digital Signage Solutions
+</title>
+
+
+<meta name="description"
+content="
+HWSTOR is a professional commercial display manufacturer specializing in digital signage,
+advertising displays, transparent displays, hologram displays and customized OEM solutions.
+">
+
+
+<meta name="keywords"
+content="
+commercial display manufacturer,
+digital signage manufacturer,
+advertising display supplier,
+transparent display,
+hologram display,
+touch screen PC,
+OEM display factory
+">
+
+
+<link rel="stylesheet" href="style.css">
+
+
+</head>
+
+
+<body>
+
+
+<!-- Navigation -->
+
+<header>
+
+<div class="container nav">
+
+<div class="logo">
+
+<img src="assets/logo.png" alt="HWSTOR">
+
+</div>
+
+
+<nav>
+
+<a href="/">Home</a>
+
+<a href="#products">Products</a>
+
+<a href="#applications">Applications</a>
+
+<a href="#factory">Factory</a>
+
+<a href="#contact">Contact</a>
+
+
+</nav>
+
+
+</div>
+
+</header>
+
+
+
+
+<!-- Hero -->
+
+
+<section class="hero">
+
+
+<div class="container hero-content">
+
+
+<div>
+
+
+<h1>
+Professional Commercial Display Manufacturer
+</h1>
+
+
+<h2>
+Digital Signage & Display Solutions For Global Businesses
+</h2>
+
+
+
+<p>
+
+HWSTOR specializes in digital signage,
+advertising displays, transparent displays
+and interactive display solutions for retail,
+hospitality, education and commercial applications.
+
+</p>
+
+
+
+<div class="buttons">
+
+<a class="btn"
+href="#products">
+Explore Products
+</a>
+
+
+<a class="btn secondary"
+href="#contact">
+Get A Quote
+</a>
+
+
+</div>
+
+
+</div>
+
+
+
+<img class="hero-img"
+src="assets/hero.png"
+alt="HWSTOR Commercial Display Solutions">
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- Products -->
+
+
+<section id="products"
+class="section">
+
+
+<div class="container">
+
+
+<h2>
+Our Commercial Display Solutions
+</h2>
+
+
+<p class="intro">
+
+From standard displays to customized solutions,
+HWSTOR delivers reliable commercial display products
+for global customers.
+
+</p>
+
+
+
+<div class="grid">
+
+
+
+<div class="card">
+
+<img src="assets/digital-signage.jpg">
+
+<h3>
+Digital Signage Display
+</h3>
+
+
+<p>
+High brightness commercial displays
+for retail stores, hotels,
+restaurants and public spaces.
+</p>
+
+
+<a href="/digital-signage.html">
+Learn More →
+</a>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+
+<img src="assets/advertising.jpg">
+
+
+<h3>
+Advertising Display Solutions
+</h3>
+
+
+<p>
+Tabletop advertising players,
+floor standing displays and interactive screens.
+</p>
+
+
+<a href="/advertising-display.html">
+Learn More →
+</a>
+
+
+</div>
+
+
+
+
+
+
+<div class="card">
+
+
+<img src="assets/transparent.jpg">
+
+
+<h3>
+Transparent Display Technology
+</h3>
+
+
+<p>
+Interactive transparent LCD displays
+for retail showcases and exhibitions.
+</p>
+
+
+<a href="/transparent-display.html">
+Learn More →
+</a>
+
+
+</div>
+
+
+
+
+
+
+<div class="card">
+
+
+<img src="assets/hologram.jpg">
+
+
+<h3>
+3D Hologram Display
+</h3>
+
+
+<p>
+Create impressive visual experiences
+with holographic display solutions.
+</p>
+
+
+<a href="/hologram-display.html">
+Learn More →
+</a>
+
+
+</div>
+
+
+
+
+
+
+<div class="card">
+
+
+<img src="assets/touch-pc.jpg">
+
+
+<h3>
+Touch Screen All-in-One PC
+</h3>
+
+
+<p>
+Customized touch computers
+for kiosks and interactive applications.
+</p>
+
+
+<a href="/touch-screen-pc.html">
+Learn More →
+</a>
+
+
+</div>
+
+
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<!-- Applications -->
+
+
+<section id="applications"
+class="dark section">
+
+
+<div class="container">
+
+
+<h2>
+Designed For Various Industries
+</h2>
+
+
+
+<div class="grid">
+
+
+<div>
+
+<h3>
+Retail
+</h3>
+
+<p>
+Digital signage solutions
+for promotions and customer engagement.
+</p>
+
+</div>
+
+
+<div>
+
+<h3>
+Restaurant
+</h3>
+
+<p>
+Menu displays, ordering kiosks
+and advertising screens.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Hotel
+</h3>
+
+<p>
+Information displays,
+wayfinding and guest services.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Exhibition
+</h3>
+
+<p>
+Interactive displays and immersive experiences.
+</p>
+
+</div>
+
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<!-- Factory -->
+
+
+<section id="factory"
+class="section">
+
+
+<div class="container">
+
+
+<h2>
+Why Choose HWSTOR
+</h2>
+
+
+
+<div class="features">
+
+
+<div>
+
+<h3>
+Factory Direct
+</h3>
+
+<p>
+Competitive pricing with professional production capability.
+</p>
+
+</div>
+
+
+<div>
+
+<h3>
+OEM & ODM
+</h3>
+
+<p>
+Customized size, hardware and appearance design.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Quality Control
+</h3>
+
+<p>
+Reliable testing process before shipment.
+</p>
+
+</div>
+
+
+<div>
+
+<h3>
+Global Support
+</h3>
+
+<p>
+Supporting distributors and partners worldwide.
+</p>
+
+</div>
+
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- Contact CTA -->
+
+
+<section id="contact"
+class="cta">
+
+
+<h2>
+
+Looking For A Reliable Commercial Display Partner?
+
+</h2>
+
+
+<p>
+
+Contact HWSTOR for product catalogs,
+pricing and customized solutions.
+
+</p>
+
+
+
+<a class="btn"
+href="mailto:sales@hwstor.com">
+
+Send Inquiry
+
+</a>
+
+
+</section>
+
+
+
+
+
+
+<footer>
+
+
+<p>
+
+© 2026 HWSTOR. All Rights Reserved.
+
+</p>
+
+
+</footer>
+
+
+
+</body>
+
+</html>
 │
 └── assets
     ├── logo.png
